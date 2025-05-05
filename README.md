@@ -1,6 +1,6 @@
 # 🏄‍♂️ Shubham Dindorkar
 
-**`Mobile App developer`**
+
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studing *Computer Science Engineering* at the Deccan Education Society, Pune. <br/>
