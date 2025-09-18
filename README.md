@@ -27,17 +27,6 @@
 <br />
 <br />
 
-## 📊 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdindorkar&show_icons=true&theme=gotham" alt="GitHub Stats"height="200" />
-  <a href="https://github.com/shubhamdindorkar/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamdindorkar&show_icons=true&theme=gotham" alt="Top Languages"height="200" />
-  </a>
-</p>
-
-
-
 ## 🌐 Connect with Me
 
 - 💼 Interested in working together? Reach out to me via <a href="shubhamdindorkar1@gmail.com">email.</a>
