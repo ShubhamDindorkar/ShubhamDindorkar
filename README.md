@@ -35,5 +35,5 @@
 
 
 #
-<img src="https://streak-stats.demolab.com?user=shubhamdindorkar&theme=gruvbox&hide_border=true" alt="shubhamdindorkar's GitHub Stats" />
+<img align="left" src="https://streak-stats.demolab.com?user=shubhamdindorkar&theme=gruvbox&hide_border=true" alt="shubhamdindorkar's GitHub Stats" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdindorkar&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="shubhamdindorkar's GitHub Stats" />
